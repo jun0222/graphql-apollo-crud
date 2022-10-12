@@ -1,8 +1,8 @@
 # 参考記事
 
-[GraphQL Handson](https://graphql-handson-ozaki25.vercel.app/page3-2.html)
-[React と Apollo で GraphQL を使った簡易 Todo リストを作成してみた](https://qiita.com/okumurakengo/items/ee1f9c8fb1bfa9fad797)
-[Apollo 要約](https://zenn.dev/smish0000/articles/42a0d6e0522ffa)
+- [GraphQL Handson](https://graphql-handson-ozaki25.vercel.app/page3-2.html)
+- [React と Apollo で GraphQL を使った簡易 Todo リストを作成してみた](https://qiita.com/okumurakengo/items/ee1f9c8fb1bfa9fad797)
+- [Apollo 要約](https://zenn.dev/smish0000/articles/42a0d6e0522ffa)
 
 # コマンド
 
