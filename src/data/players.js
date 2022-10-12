@@ -1,0 +1,88 @@
+const players = [
+  {
+    id: "1001",
+    name: "菅野　智之",
+    no: "18",
+    position: "投手",
+    teamId: "1",
+  },
+  {
+    id: "1002",
+    name: "坂本　勇人",
+    no: "6",
+    position: "内野手",
+    teamId: "1",
+  },
+  {
+    id: "2001",
+    name: "今永　昇太",
+    no: "21",
+    position: "投手",
+    teamId: "2",
+  },
+  {
+    id: "2002",
+    name: "山﨑　康晃",
+    no: "19",
+    position: "投手",
+    teamId: "2",
+  },
+  {
+    id: "3001",
+    name: "近本　光司",
+    no: "5",
+    position: "外野手",
+    teamId: "3",
+  },
+  {
+    id: "3002",
+    name: "梅野　隆太郎",
+    no: "44",
+    position: "捕手",
+    teamId: "3",
+  },
+  {
+    id: "4001",
+    name: "鈴木　誠也",
+    no: "1",
+    position: "外野手",
+    teamId: "4",
+  },
+  {
+    id: "4002",
+    name: "小園　海斗",
+    no: "51",
+    position: "内野手",
+    teamId: "4",
+  },
+  {
+    id: "5001",
+    name: "根尾　昂",
+    no: "7",
+    position: "内野手",
+    teamId: "5",
+  },
+  {
+    id: "5002",
+    name: "平田　良介",
+    no: "6",
+    position: "外野手",
+    teamId: "5",
+  },
+  {
+    id: "6001",
+    name: "奥川　恭伸",
+    no: "11",
+    position: "投手",
+    teamId: "6",
+  },
+  {
+    id: "6002",
+    name: "山田　哲人",
+    no: "1",
+    position: "内野手",
+    teamId: "6",
+  },
+];
+
+module.exports = players;

@@ -1,0 +1,11 @@
+{
+  "name": "graphql-apollo-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "JunHatanaka <nextseason6@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.10.3",
+    "graphql": "^16.6.0"
+  }
+}
