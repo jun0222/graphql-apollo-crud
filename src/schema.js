@@ -5,12 +5,16 @@ const typeDefs = gql`
     teams: [Team]
   }
   type Mutation {
+    # create
     addPlayer(
       name: String!
       no: String!
       position: String!
       teamId: String!
     ): Player
+
+    # delete
+    deletePlayer(id: String!): Boolean!
   }
   type Team {
     id: ID!

@@ -12,8 +12,15 @@ const resolver = {
     },
   },
   Mutation: {
+    // create
     addPlayer: (_, player) => {
       return playerService.add(player);
+    },
+
+    // delete
+    deletePlayer: (_, { id }) => {
+      const res = playerService.delete(id);
+      return res;
     },
   },
 };
