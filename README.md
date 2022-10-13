@@ -1,3 +1,23 @@
+# 目次
+
+<!-- TOC -->
+
+- [目次](#目次)
+- [参考記事](#参考記事)
+- [コマンド](#コマンド)
+  - [graphql サーバー起動](#graphql-サーバー起動)
+- [playground での操作例](#playground-での操作例)
+  - [query](#query)
+  - [mutation](#mutation)
+    - [create](#create)
+    - [delete](#delete)
+      - [src/schema.js](#srcschemajs)
+      - [src/resolver.js](#srcresolverjs)
+      - [src/service/PlayerService.js](#srcserviceplayerservicejs)
+    - [update](#update)
+
+<!-- /TOC -->
+
 # 参考記事
 
 - [GraphQL Handson](https://graphql-handson-ozaki25.vercel.app/page3-2.html)
